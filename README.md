@@ -2,7 +2,7 @@
 ## The Band Name Generator where you can create cool band names in a couple of seconds
 
 
-![](images/band_output.PNG)
+![](Images/band_output.PNG)
 
 # Here is the link to access it...
 https://repl.it/join/atamooyo-ieirodov
